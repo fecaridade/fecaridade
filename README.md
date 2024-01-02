@@ -1,18 +1,15 @@
-# Felipe Caridade - Desenvolvedor de Jogos e Sistemas Web
+# Felipe Caridade - Desenvolvedor de Sistemas Web
 
 ## Sobre mim
-Olá, sou Felipe Caridade, um apaixonado por desenvolvimento de jogos e sistemas web. Atualmente, trabalho como técnico em desenvolvimento de jogos e também atuo no desenvolvimento de sistemas web, principalmente com o backend utilizando Python e Django. Além disso, tenho experiência em automação de processos usando Python.
+Olá, sou Felipe Caridade, um desenvolvedor de sistemas web com experiência em backend utilizando Python e Django. Apesar de meu trabalho atual estar focado em sistemas web, tenho um interesse especial em jogos como meu hobby.
 
 ## Projetos
-
-### Desenvolvimento de Jogos
-
 
 ### Sistemas Web
 
 
-### Automação de Processos
-
+### Hobby - Desenvolvimento de Jogos
+- Apesar de meu trabalho principal ser em sistemas web, tenho experiência em desenvolvimento de jogos como hobby. Não tenho projetos específicos listados aqui atualmente.
 
 ## Contato
 - **Instagram:** [_fecaridade](https://www.instagram.com/_fecaridade/)
@@ -21,4 +18,3 @@ Olá, sou Felipe Caridade, um apaixonado por desenvolvimento de jogos e sistemas
 ## Badges
 [![Instagram](https://img.shields.io/badge/Instagram-_-brightgreen?style=flat&logo=instagram)](https://www.instagram.com/_fecaridade/)
 [![GitHub](https://img.shields.io/badge/GitHub-fecaridade-brightgreen?style=flat&logo=github)](https://github.com/fecaridade)
-
