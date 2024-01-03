@@ -14,6 +14,7 @@ Olá, sou Felipe Caridade, um desenvolvedor de sistemas web com experiência em 
 ## Contato
 - **Instagram:** [_fecaridade](https://www.instagram.com/_fecaridade/)
 - **GitHub:** [fecaridade](https://github.com/fecaridade)
+- **LinkedIn:** [felipe-caridade](https://www.linkedin.com/in/felipe-caridade-fernandes-334222226/)
 
 ## Badges
 [![Instagram](https://img.shields.io/badge/Instagram-_-brightgreen?style=flat&logo=instagram)](https://www.instagram.com/_fecaridade/)
